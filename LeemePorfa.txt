@@ -1,0 +1,5 @@
+IMPORTANTE:
+Ejecutar npm install
+PARA QUE FUNCIONE TODO CORRECTAMENTE
+Y luego ejecutar npm start
+Y YA ESTARIA FUNCIONANDO TODO
